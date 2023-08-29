@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aref<br>A passionate Flutter developer 📱👨🏻‍💻<br>
+Hi 👋, I'm Aref<br>A passionate mobile developer  📱👨🏻‍💻<br>
 
 
 ## 🌐 Socials:
