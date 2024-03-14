@@ -2,7 +2,7 @@
 🚀 Mobile dev enthusiast | 💻 Flutter & SwiftUI | 🔥 Passionate about crafting apps that dazzle | 📚 Lifelong learner | 🌟 Let's build something awesome.
 
 ## Connect with me:
-- LinkedIn: [Aref Shalchi](https://linkedin.com/in/aref-shalchi)
+- LinkedIn: [Aref Shalchi]([https://linkedin.com/in/aref-shalchi](https://www.linkedin.com/in/aref-shalchi-955690210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC%2BmoN10nSS6Hj5GBL5t0%2FQ%3D%3D))
 - Twitter: [@ArefShalchi](https://twitter.com/ArefShalchi)
 
 ## 💻 Tech Stack:
