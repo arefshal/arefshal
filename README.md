@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aref!
-🚀 Mobile dev enthusiast | 💻 Flutter & SwiftUI | 🔥 Passionate about crafting apps that dazzle | 📚 Lifelong learner | 🌟 Let's build something awesome.
+Passionate iOS developer with over 2 years of dynamic experience, starting with cross-platform app development using Flutter and recently honing my skills in SwiftUI.
 
 ## Connect with me:
 - LinkedIn: [Aref Shalchi](https://linkedin.com/in/aref-shalchi-955690210)
