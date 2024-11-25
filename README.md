@@ -1,22 +1,9 @@
-# 👋 Hi, I'm Aref!
-Passionate iOS developer with over 2 years of dynamic experience, starting with cross-platform app development using Flutter and recently honing my skills in SwiftUI.
-
-## Connect with me:
-- LinkedIn: [Aref Shalchi](https://linkedin.com/in/aref-shalchi-955690210)
-- Twitter: [@ArefShalchi](https://twitter.com/ArefShalchi)
-
-## 💻 Tech Stack:
-- Swift ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-- Dart ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-- Firebase ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-- Flutter ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-- Figma ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📈 GitHub Stats:
-- 🌟 Discover my projects and let's get inspired together!
-
-![](https://github-readme-stats.vercel.app/api?username=arefshal&hide_border=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=arefshal&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arefshal&layout=compact&theme=dark)
-
-👀 Thanks for stopping by!
+<h1 align="center">Hi 👋, I'm Aref Shalchi</h1> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=42A5F5&center=true&lines=iOS+Developer+with+a+Passion+for+Swift;Optimizing+UX+%7C+Building+Clean+Code;SwiftUI+%7C+UIKit+%7C+MVVM;Always+Learning+%26+Improving"> </a> </p> <img align="center" alt="Aref's iOS Development" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefshal&label=Profile%20views&color=0e75b6&style=flat" alt="arefshal" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=arefshal&theme=onedark" alt="arefshal" /> </a> </p>
+🚀 I recently launched LexiLearn 504, an interactive app to learn essential English words.
+🌱 Currently diving deeper into Machine Learning, Core Data, and advanced SwiftUI animations.
+💼 I love designing and building iOS apps with a focus on UX and performance optimization.
+💬 Ask me about Swift, SwiftUI, MapKit, or MVVM architecture.
+📫 You can reach me at arefshal@gmail.com.
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/aref-shalchi" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /> </a> <a href="https://github.com/arefshal" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Profile" height="30" width="40" /> </a> </p>
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift" width="40" height="40" /> </a> <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Xcode_14_icon.png" alt="Xcode" width="40" height="40" /> </a> <a href="https://developer.apple.com/documentation/swiftui/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" /> </a> <a href="https://developer.apple.com/documentation/uikit/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" alt="UIKit" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> </a> <a href="https://developer.apple.com/documentation/coredata/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/coredata-logo-388F4D2B56-seeklogo.com.png" alt="Core Data" width="40" height="40" /> </a> <a href="https://developer.apple.com/documentation/avfoundation/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-96x96_2x.png" alt="AVFoundation" width="40" height="40" /> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefshal&show_icons=true&locale=en&layout=compact&theme=radical" alt="arefshal's most used languages" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arefshal&show_icons=true&locale=en&theme=radical" alt="arefshal's GitHub stats" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefshal&theme=radical" alt="arefshal's GitHub streak stats" /></p> <img align="center" alt="Coding Enthusiasm" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
