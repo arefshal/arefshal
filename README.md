@@ -1,7 +1,92 @@
-<h1 align="center">Hi 👋, I'm Aref Shalchi</h1> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=42A5F5&center=true&lines=Mobile+Developer"> </a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefshal&label=Profile%20views&color=0e75b6&style=flat" alt="arefshal" /> </p>
-<h2 align="left">About Me</h2> <p> iOS Developer with over 2 years of focused experience in building mobile applications using Swift, SwiftUI, and UIKit. I excel in optimizing user experience, improving app performance, and delivering clean, efficient code. With strong collaboration skills, I have hands-on experience with GitFlow for version control and team-based workflows. Passionate about adopting new technologies and continually enhancing my iOS development expertise. </p>
-🚀 LexiLearn 504: An interactive app to learn 504 essential English words, now live on the App Store!
+<h1 align="center">Hi 👋, I'm Aref Shalchi</h1>
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/aref-shalchi" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /> </a> </p>
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift" width="40" height="40" /> </a> <a href="https://developer.apple.com/documentation/swiftui/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" /> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefshal&show_icons=true&locale=en&layout=compact&theme=radical" alt="arefshal's most used languages" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arefshal&show_icons=true&locale=en&theme=radical" alt="arefshal's GitHub stats" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefshal&theme=radical" alt="arefshal's GitHub streak stats" /></p> <img align="center" alt="Coding Enthusiasm" width="400" src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif?cid=ecf05e47cwwk9bhljg90jqo9ogswzshnjuu0n6volpnp2ewv&ep=v1_gifs_search&rid=giphy.gif&ct=g"> <h3 align="center"> iOS Developer | Swift | SwiftUI | UIKit | Flutter</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=42A5F5&center=true&vCenter=true&width=650&lines=iOS+Developer;Swift+%7C+SwiftUI+%7C+UIKit;Performance+%26+Clean+Code+Mindset;Always+learning%2C+always+building" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aref-shalchi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aref%20Shalchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/arefshal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-arefshal-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arefshal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## About Me
+
+iOS Developer with hands-on experience in **Swift**, **SwiftUI**, and **MVVM architecture**.  
+I enjoy building clean, user-friendly apps from scratch and turning ideas into real, working products.
+
+- Built & published multiple iOS apps independently
+- Worked with **Core Data**, **Combine**, **Firebase**, and **Supabase**
+- Focused on **performance**, **clean code**, and delivering great user experiences  
+**Always learning, always building.**
+
+---
+
+## Featured
+
+🚀 **LexiLearn 504** — Interactive app to learn 504 essential English words (Live on the App Store)  
+🕹️ **PadelYar** — Apple Watch score tracker for padel games (in progress / showcased)
+
+> If you want, I can اضافه کنم: لینک اپ‌استور، اسکرین‌شات‌ها، و یک سکشن “Projects” با کارت‌های شیک.
+
+---
+
+## Experience
+
+- **iOS Developer — Namava (Full-time)**  
+  *Apr 2025 – Present (Remote)*
+
+- **iOS Developer — Self-employed**  
+  *Sep 2023 – Present*
+
+- **iOS Engineer — NeshanMaps (Internship)**  
+  *Jul 2024 – Sep 2024 (On-site, Mashhad)*
+
+---
+
+## Education & Certification
+
+- **Islamic Azad University** — Bachelor’s Degree, Computer Science *(Oct 2021 – 2025)*  
+- **Ham-Masir iOS Development Bootcamp — NeshanMaps** *(Issued Jul 2024)*
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift" width="40" height="40" />
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" />
+  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-6E6E6E?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core%20Data-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arefshal&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arefshal&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arefshal&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center"> iOS Developer | Swift | SwiftUI | UIKit</h3>
